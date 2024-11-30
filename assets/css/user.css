@@ -1,0 +1,21 @@
+.account {
+  margin-top: 225px;
+  display: flex;
+}
+.title-account {
+  flex-basis: 30%;
+}
+.info-acccount {
+  flex-basis: 70%;
+}
+.account h5 {
+  font-size: 19px;
+  margin-bottom: 9px;
+}
+
+.title-account span {
+  color: red;
+}
+.info-acccount strong {
+  font-weight: bold;
+}
